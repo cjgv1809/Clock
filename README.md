@@ -1,4 +1,4 @@
-# netflix_clone
+# clock_app
 
 A new Flutter project.
 
